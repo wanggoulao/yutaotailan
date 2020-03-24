@@ -3,6 +3,6 @@ package com.atguigu;
 public class Love {
 
 		public static void main(String[] args) {
-			System.out.println("ÎÒÏ²»¶Äã Â¶Ë¿");
+			System.out.println("æ¥å•Š å¿«æ´»å•Š");
 		}
 }
